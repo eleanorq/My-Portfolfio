@@ -7,13 +7,32 @@ p.intro {
   font-style: oblique;
   color: #3971d1;
 }
-.my-class {
-  margin: 12px;
+.title {
+  margin: 8px;
   border: 2px solid #3971d1;
   padding: 4px;
   background-color: orange;
+  text-align:center
 }
 
 body {
   font-family: cursive;
-}  
+}
+
+.box1 {
+  width: 50%;
+  border: solid #3971d1;
+  border-width: 15px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box2 {
+  width: 50%;
+  border: solid #3971d1;
+  border-width: 15px;
+  background-color: #ebe423;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
