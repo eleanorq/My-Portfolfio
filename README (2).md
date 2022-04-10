@@ -16,7 +16,7 @@ _{This page contains information about the author related to their personal life
 
 ## Setup/Installation Requirements
 
-* _Open url https://github.com/eleanorq/Portfolio-.git_
+* _Download gitbash, go to directory where you want file to go, Open url https://github.com/eleanorq/My-Portfolfio.git to clone the repository to your directory.  View the page by opening "index" file.
 
 
 ## Known Bugs
